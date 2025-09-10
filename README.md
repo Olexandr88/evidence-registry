@@ -1,4 +1,5 @@
 [![npm](https://img.shields.io/npm/v/@rarimo/evidence-registry.svg)](https://www.npmjs.com/package/@rarimo/evidence-registry)
+[![license](https://img.shields.io/github/license/rarimo/evidence-registry)](https://github.com/rarimo/evidence-registry/blob/main/LICENSE)
 
 # ERC-7812 Reference Implementation
 
